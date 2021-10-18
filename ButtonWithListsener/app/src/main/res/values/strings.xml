@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButtonWithListsener</string>
+    <string name="Login_button">login</string>
+    <string name="Logout_button">logout</string>
+    <string name="New_button">new</string>
+    <string name="you_press_button">button press</string>
+</resources>

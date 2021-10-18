@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyTextview</string>
+
+    <string name="sajib" >sajib saha</string>
+
+    <string name="age_text"  >my age 25</string>
+
+    <string name="long_text">
+        On another note, the docs state using the selectable-property on  does the following: "Lets the user select text, to use the native copy and paste
+    </string>
+    <string name="long_text2">
+        On another note, the docs state using the selectable-property on  does the following: "Lets the user select text, to use the native copy and paste
+    </string>
+    <string name="long_text3">
+        On another note, the docs state using the selectable-property on  does the following: "Lets the user select text, to use the native copy and paste
+    </string>
+    <string name="long_text4">
+        On another note, the docs state using the selectable-property on  does the following: "Lets the user select text, to use the native copy and paste
+    </string>
+</resources>
